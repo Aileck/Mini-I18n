@@ -1,5 +1,5 @@
 # Mini-I18n
-Because the last Unity project wrote an international widget, I want to try to modify it a little to make it easier to use and more efficient
+Because during the last Unity project I wrote an international component, I want to try to modify it to make it easier to use and more efficient
 
 Current plan
 - Support JSON and YAML
